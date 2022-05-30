@@ -20,7 +20,7 @@ Here is the Deployed app : []()
 
 ## Images
 
-![ScreenShot](/src/img/)
+![ScreenShot](client/src/img/Screenshot.png)
 ![ScreenShot](/src/img/Screenshot1.png)
 ![ScreenShot](/src/img/Screenshot3.png)
 
