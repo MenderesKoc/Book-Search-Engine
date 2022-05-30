@@ -21,8 +21,8 @@ Here is the Deployed app : []()
 ## Images
 
 ![ScreenShot](client/src/img/Screenshot.png)
-![ScreenShot](/src/img/Screenshot1.png)
-![ScreenShot](/src/img/Screenshot3.png)
+![ScreenShot](client/src/img/Screenshot1.png)
+![ScreenShot](client/src/img/Screenshot3.png)
 
 ## Installation
 
