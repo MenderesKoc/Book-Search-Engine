@@ -20,6 +20,10 @@ Here is the Deployed app : []()
 
 ## Images
 
+![ScreenShot](/src/img/Screenshot.png)
+![ScreenShot](/src/img/Screenshot1.png)
+![ScreenShot](/src/img/Screenshot3.png)
+
 ## Installation
 
 - Clone the repo
