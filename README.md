@@ -14,11 +14,9 @@ This app converts a fully functioning Google Books API search engine built with 
 - Express
 - Node
 
-## Usage
-
 ## Deployed URL
 
-Here is the Deployed app : [![Deploy](https://www.herokucdn.com/deploy/button.svg)]()
+Here is the Deployed app : []()
 
 ## Images
 
